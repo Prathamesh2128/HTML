@@ -49,7 +49,6 @@ ul a {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  user-drag: none;
   box-shadow: 0 0 0 -0.25rem rgba(0, 0, 0, 0.1);
 }
 
