@@ -1,0 +1,40 @@
+html {
+    background: lightgray;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.title {
+    text-align: center;
+    color: rgb(69, 113, 236);
+}
+
+.centered {
+    width: 300px;
+    margin: auto;
+}
+
+.unstyled {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    margin: 20px 0;
+}
+
+.styled-checkbox {
+    position: absolute;
+    opacity: 0;
+
+    & + label {
+        position: relative;
+        cursor: pointer;
+        padding: 0;
+    }
+
+    
+}
