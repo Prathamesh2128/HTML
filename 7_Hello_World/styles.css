@@ -1,0 +1,28 @@
+.header {
+    font-family: 'Courier New', Courier, monospace;
+    size: 20px;
+    color: red;
+}
+
+body{
+    background-color: black;
+}
+
+.address {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin-top: -10px;
+    margin-left: 100px;
+    padding-top: 0px;
+}
+
+.mobile {
+    color: pink;
+    margin-top: -10px;
+    margin-left: 400px;
+    padding-top: 0px;
+}
+
+h6 {
+    color: white;
+}
