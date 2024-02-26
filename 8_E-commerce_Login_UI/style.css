@@ -21,12 +21,7 @@ body {
     box-shadow: 4px 4px 4px #014670;
 }
 
-.login {
-    order: 1;
-    width: 300px;
-    background-color:  #eaeaea;
-    text-align: center;
-}
+
 
 .header h1 {
     margin-top: 50px;
